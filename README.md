@@ -2,6 +2,7 @@
 
 Estudante de programação, apaixonado por tecnologia e pelo que pode se tornar...
 
+![Ary GitHub stats](https://github-readme-stats.vercel.app/api?username=AryCSO&show_icons=true&theme=dracula)
 
 ## Tecnologias
 
