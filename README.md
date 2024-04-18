@@ -1,5 +1,7 @@
 ### Olá, eu sou o Aryel Oliveira 👋
 
+![Ary GitHub stats](https://github-readme-stats.vercel.app/api?username=AryCSO&show_icons=true&theme=tokyonight&count_private=true)
+
 Estudante de programação, apaixonado por tecnologia e pelo que pode se tornar...
 
 ## Tecnologias
