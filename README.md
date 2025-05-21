@@ -1,7 +1,7 @@
 ### Hello, my name is Aryel 👋
 
 ![Ary GitHub stats](https://github-readme-stats.vercel.app/api?username=AryCSO&show_icons=true&theme=tokyonight&count_private=true)
-![snake gif](https://github.com/AryCSO/AryCSO/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AryCSO/AryCSO/blob/output/github-contribution-grid-snake.svg)
 
 Programming student, passionate about technology and what it can become...
 
