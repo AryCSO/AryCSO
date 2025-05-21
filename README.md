@@ -1,6 +1,7 @@
 ### Hello, my name is Aryel 👋
 
 ![Ary GitHub stats](https://github-readme-stats.vercel.app/api?username=AryCSO&show_icons=true&theme=tokyonight&count_private=true)
+![snake gif](https://github.com/AryCSO/AryCSO/blob/output/github-contribution-grid-snake.svg)
 
 Programming student, passionate about technology and what it can become...
 
@@ -21,9 +22,6 @@ Programming student, passionate about technology and what it can become...
   <a href = "https://wa.me/+5562981795414"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"  rel="external" target="_blank"></a>
   <a href = "mailto:arycarvalho1969@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  rel="external" target="_blank"></a>
   <a href="https://br.linkedin.com/in/aryel-s-oliveira-298169271" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  rel="external" target="_blank"></a> 
-
-![snake gif](https://github.com/AryCSO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
 
