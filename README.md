@@ -12,6 +12,7 @@ Aspiring programmer, passionate about new challenges and thirsty for improvement
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Illustrator" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg">
   <img align="center" alt="Photoshop" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
+  <img align="center" alt="Figma" height="40" width="30" src="https://github.com/user-attachments/assets/8ee1572c-2f59-4b39-be95-f5d8785dc558">
 </div>
 
 ##
