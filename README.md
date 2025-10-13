@@ -10,7 +10,7 @@ Aspiring programmer, passionate about new challenges and thirsty for improvement
   <img align="center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Illustrator" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg">
+  <img align="center" alt="Illustrator" height="40" width="30" src="https://github.com/user-attachments/assets/b88718e1-b685-45fc-bbdf-914a20db3ff5">
   <img align="center" alt="Photoshop" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
   <img align="center" alt="Figma" height="40" width="30" src="https://github.com/user-attachments/assets/8ee1572c-2f59-4b39-be95-f5d8785dc558">
 </div>
