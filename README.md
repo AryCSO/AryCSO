@@ -21,6 +21,7 @@ Aspiring programmer, passionate about new challenges and thirsty for improvement
   <a href = "mailto:arycarvalho1969@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  rel="external" target="_blank"></a>
   <a href="https://br.linkedin.com/in/aryel-s-oliveira-298169271" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  rel="external" target="_blank"></a> 
 </div>
-//https://icons8.com.br/icons
+
+<!-- https://icons8.com.br/icons -->
 
 
