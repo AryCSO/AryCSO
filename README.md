@@ -7,8 +7,8 @@ Aspiring programmer, passionate about new challenges and thirsty for improvement
 ## skills
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="HTML" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ilustrator" height="50" width="40" src="https://github.com/user-attachments/assets/b88718e1-b685-45fc-bbdf-914a20db3ff5">
   <img align="center" alt="Photoshop" height="50" width="40" src="https://github.com/user-attachments/assets/135ecd48-6d71-4040-a90d-9ee775a7a260">
