@@ -1,6 +1,6 @@
 ### Hello, my name is Aryel 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryCSO)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryCSO&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 Aspiring programmer, passionate about new challenges and thirsty for improvement.
 
