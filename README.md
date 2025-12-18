@@ -5,6 +5,7 @@
 Aspiring programmer, passionate about new challenges and thirsty for improvement.
 
 ## skills
+<p align="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="HTML" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -14,7 +15,7 @@ Aspiring programmer, passionate about new challenges and thirsty for improvement
   <img align="center" alt="Photoshop" height="50" width="40" src="https://github.com/user-attachments/assets/135ecd48-6d71-4040-a90d-9ee775a7a260">
   <img align="center" alt="Figma" height="40" width="30" src="https://github.com/user-attachments/assets/8ee1572c-2f59-4b39-be95-f5d8785dc558">
 </div>
-
+</p>
 ##
 <div> 
   <a href = "https://wa.me/+5562981795414"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"  rel="external" target="_blank"></a>
