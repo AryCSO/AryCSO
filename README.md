@@ -14,6 +14,7 @@ Aspiring programmer, passionate about new challenges and thirsty for improvement
   <img align="center" alt="Ilustrator" height="50" width="40" src="https://github.com/user-attachments/assets/b88718e1-b685-45fc-bbdf-914a20db3ff5">
   <img align="center" alt="Photoshop" height="50" width="40" src="https://github.com/user-attachments/assets/135ecd48-6d71-4040-a90d-9ee775a7a260">
   <img align="center" alt="Figma" height="40" width="30" src="https://github.com/user-attachments/assets/8ee1572c-2f59-4b39-be95-f5d8785dc558">
+  <img align="center" alt="Flutter" height="40" width="30" src="https://icons8.com/icon/7I3BjCqe9rjG/flutter">
 </div>
 </p>
 ##
