@@ -4,6 +4,16 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryCSO&layout=compact&theme=moltack&hide=TeX)
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app" />
+  </a>
+</p>
+<br clear="left"/>
+
 ## skills
 <p align="center">
 <div style="display: inline_block"><br>
