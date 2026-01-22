@@ -2,6 +2,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryCSO&show_icons=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryCSO)](https://github.com/AryCSO/github-readme-stats)
+
 Aspiring programmer, passionate about new challenges and thirsty for improvement.
 
 ## skills
