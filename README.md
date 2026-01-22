@@ -1,19 +1,17 @@
 ### Hello, my name is Aryel 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryCSO&show_icons=true&theme=moltack&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryCSO&layout=compact&theme=moltack&hide=TeX)
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app" />
-  </a>
-</p>
-<br clear="left"/>
-
+<table>
+  <tr>
+    <td>
+      <!-- Card de Estatísticas do GitHub -->
+      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryCSO&show_icons=true&theme=moltack&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+    </td>
+    <td>
+      <!-- Card de Linguagens Mais Usadas -->
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryCSO&layout=compact&theme=moltack&hide=TeX)
+    </td>
+  </tr>
+</table>
 ## skills
 <p align="center">
 <div style="display: inline_block"><br>
