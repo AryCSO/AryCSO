@@ -4,8 +4,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryCSO&layout=compact&theme=moltack&hide=TeX)
 
-Aspiring programmer, passionate about new challenges and thirsty for improvement.
-
 ## skills
 <p align="center">
 <div style="display: inline_block"><br>
