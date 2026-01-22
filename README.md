@@ -1,15 +1,8 @@
 ### Hello, my name is Aryel 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryCSO&show_icons=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryCSO&show_icons=true&theme=moltack&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryCSO&layout=compact&theme=moltack&hide=TeX)
-
-<a. a href="https://github.com/anuraghazra/github-readme-statsO "› ›
-  <img altura=200 alinhem="centroO " src="https://github-readme-stats.vercel.app/api?username=anuraghazraO " />
-</a. a› ›
-<a. a href="https://github.com/anuraghazra/convoychatO "› ›
-  <img altura=200 alinhem="centroO " src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320O " />
-</a. a› ›
 
 ## skills
 <p align="center">
