@@ -1,17 +1,10 @@
 ### Hello, my name is Aryel 👋
 
-<table>
-  <tr>
-    <td>
-      <!-- Card de Estatísticas do GitHub -->
-      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryCSO&show_icons=true&theme=moltack&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-    </td>
-    <td>
-      <!-- Card de Linguagens Mais Usadas -->
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryCSO&layout=compact&theme=moltack&hide=TeX)
-    </td>
-  </tr>
-</table>
+| GitHub Stats | Top Languages |
+| ------------ | ------------- |
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryCSO&show_icons=true&theme=moltack&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryCSO&layout=compact&theme=moltack&hide=TeX) |
+
+
 ## skills
 <p align="center">
 <div style="display: inline_block"><br>
