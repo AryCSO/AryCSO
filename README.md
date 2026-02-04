@@ -1,6 +1,6 @@
 ### Hello, my name is Aryel 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryCSO&show_icons=true&theme=moltack&rank_icon=github&hide=issues)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryCSO&layout=compact&theme=moltack&hide=TeX)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryCSO&show_icons=true&theme=moltack&rank_icon=github&hide=issues)] (https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryCSO&layout=compact&theme=moltack&hide=TeX)
 
 <div style="border-radius: 16px; padding: 20px; mfont-family: Arial, Helvetica, sans-serif;">
 <p style="margin-bottom: 6px;">
