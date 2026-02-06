@@ -1,8 +1,8 @@
 ### Hello, my name is Aryel 👋
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AryCS0&show_icons=true&theme=moltack&rank_icon=github&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AryCS0&show_icons=true&theme=moltack&rank_icon=github&hide=issues&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryCS0&layout=compact&theme=moltack&hide=TeX)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryCS0&layout=compact&theme=moltack&hide=TeX&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div style="border-radius: 16px; padding: 20px; mfont-family: Arial, Helvetica, sans-serif;">
