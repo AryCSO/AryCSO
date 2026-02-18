@@ -1,11 +1,11 @@
 <h1 align="center">Hello, my name is Aryel 👋</h1>
 
-<div align="center">
+<!--<div align="center">
 
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryCSO&show_icons=true&theme=transparent&rank_icon=github&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryCSO&layout=compact&theme=transparent&hide=TeX)-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryCSO&show_icons=true&theme=transparent&rank_icon=github&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryCSO&layout=compact&theme=transparent&hide=TeX)
 
-</div>
+</div>-->
 
 
 <p align="center">
