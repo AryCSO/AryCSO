@@ -11,8 +11,8 @@
 <div style="display: inline_block; margin-top: 0;">
   <h2 style="margin-top: 0; margin-bottom: 6px;">skills</h2>
   <p style="margin-top: 0;">
+     <img align="center" alt="Flutter" height="30" width="29" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
     <img align="center" alt="Dart" height="29" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg">
-    <img align="center" alt="Flutter" height="30" width="29" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
     <img align="center" alt="Python" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
     <img align="center" alt="HTML" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
