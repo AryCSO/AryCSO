@@ -1,9 +1,17 @@
 ### Hello, my name is Aryel 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryCSO&show_icons=true&theme=moltack&rank_icon=github&hide=issues)] (https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryCSO&layout=compact&theme=moltack&hide=TeX)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryCSO&show_icons=true&theme=moltack&rank_icon=github&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryCSO&layout=compact&theme=moltack&hide=TeX)
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AryCSO/AryCSO/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AryCSO/AryCSO/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AryCSO/AryCSO/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
-<div style="border-radius: 16px; padding: 20px; mfont-family: Arial, Helvetica, sans-serif;">
+<div style="border-radius: 16px; padding: 20px; font-family: Arial, Helvetica, sans-serif;">
 <p style="margin-bottom: 6px;">
   Developer, Designer, Tester, and more...
 </p>
@@ -25,7 +33,7 @@
 
 <div> 
   <h4>Contacts</h4>
-  <pstyle="margin-bottom: 6px;">
+  <p style="margin-bottom: 6px;">
     <a href="https://arycso.github.io/Portfolio/" target="_blank" rel="external">
       <img src="https://img.shields.io/badge/Portifólio-D4AF37?style=for-the-badge&logoColor=2b2b2b">
     </a>
