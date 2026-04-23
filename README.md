@@ -25,16 +25,16 @@
 <div style="display: inline-block; margin-top: 0;">
   <h2 style="margin-top: 0; margin-bottom: 6px;">skills</h2>
 
-  <p style="margin-top: 0;">
-    <img align="center" alt="Flutter" height="30" width="29" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
-    <img align="center" alt="Dart" height="29" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg">
-    <img align="center" alt="Python" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-    <img align="center" alt="HTML" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Illustrator" height="50" width="40" src="https://github.com/user-attachments/assets/b88718e1-b685-45fc-bbdf-914a20db3ff5">
-    <img align="center" alt="Photoshop" height="50" width="40" src="https://github.com/user-attachments/assets/135ecd48-6d71-4040-a90d-9ee775a7a260">
-    <img align="center" alt="Figma" height="40" width="30" src="https://github.com/user-attachments/assets/8ee1572c-2f59-4b39-be95-f5d8785dc558">
+  <p style="margin-top: 0; display: flex; flex-wrap: wrap; align-items: center; gap: 4px;">
+    <img alt="Flutter" height="30" width="29" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
+    <img alt="Dart" height="29" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg">
+    <img alt="Python" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+    <img alt="HTML" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+    <img alt="CSS" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+    <img alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+    <img alt="Illustrator" height="50" width="40" src="https://github.com/user-attachments/assets/b88718e1-b685-45fc-bbdf-914a20db3ff5">
+    <img alt="Photoshop" height="50" width="40" src="https://github.com/user-attachments/assets/135ecd48-6d71-4040-a90d-9ee775a7a260">
+    <img alt="Figma" height="40" width="30" src="https://github.com/user-attachments/assets/8ee1572c-2f59-4b39-be95-f5d8785dc558">
   </p>
 </div>
 
